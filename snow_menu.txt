@@ -1,0 +1,15 @@
+[ru]
+SM_TITLE = Интенсивность снега
+SM_INTENSITY_0 = Нет снега
+SM_INTENSITY_1 = Редкий снег
+SM_INTENSITY_2 = Снегопад
+SM_INTENSITY_3 = Зимняя метель
+SM_EXIT = Выход
+
+[en]
+SM_TITLE = Snow intensity
+SM_INTENSITY_0 = No snow
+SM_INTENSITY_1 = Rare snow
+SM_INTENSITY_2 = Snowfall
+SM_INTENSITY_3 = Winter blizzard
+SM_EXIT = Exit
